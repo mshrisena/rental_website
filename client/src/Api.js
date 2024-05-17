@@ -4,7 +4,7 @@ import secureLocalStorage from 'react-secure-storage';
 
 const Api = axios.create({
  // baseURL:"http://localhost:3001", 
- baseURL :'https://adya-assesment.onrender.com'
+ baseURL :'https://rental-website-mwfy.onrender.com'
 });
 
 
